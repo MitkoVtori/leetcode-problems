@@ -51,7 +51,7 @@ All the integers of nums are unique.
 Solution: <a href="problem-2">python</a>
 
 
-# Problem-2
+# Problem-3
 Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 
 You must write an algorithm with O(log n) runtime complexity.
